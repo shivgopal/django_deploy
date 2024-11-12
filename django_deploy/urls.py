@@ -1,4 +1,4 @@
-"""django_deploy URL Configuration
+"""django_deploy URLd Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.1/topics/http/urls/
